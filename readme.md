@@ -12,14 +12,13 @@ HashCompare is a shallow + deep comparison algorithm implemention that returns t
 ## Installation
 
 Use the Ruby package manager to install gems present in Gemfile by running:
-
-```ruby
-bundle
+```
+ruby bundle
 ```
 
 ## Tests
 
 All tests are present in the `hash_compare_tests` file. You can run them from the root of the project by calling:
-```ruby
-hash_compare_tests.rb
+```
+ruby hash_compare_tests.rb
 ```
